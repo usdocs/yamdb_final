@@ -3,9 +3,9 @@
 
 ![example workflow](https://github.com/usdocs/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-[Путь до API](http://178.154.205.59/api/v1/)
+[Путь до API](http://158.160.49.4/api/v1/)
 
-[Документация API](http://178.154.205.59/redoc/) 
+[Документация API](http://158.160.49.4/redoc/) 
 
 ## Описание
 
